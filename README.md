@@ -103,16 +103,27 @@ MIT License
 
 requirements.txt :
 tensorflow
+
 numpy
+
 opencv-python
+
 matplotlib
+
 scikit-learn
+
 Pillow
+
 requests
+
 python-dotenv
+
 transformers
+
 torch
+
 flask
+
 
 📧 Contact
 For any inquiries or collaborations, feel free to contact:
