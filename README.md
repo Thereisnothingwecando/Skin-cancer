@@ -61,6 +61,12 @@ skin-cancer-detection/
    cd skin-cancer-detection
 
    Install dependencies:
+   Python 3.8+
+- OpenCV, PIL
+- TensorFlow / Keras (for CNN)
+- FastAPI (for backend)
+- Grok API (LLM-based explanation)
+- HTML/CSS/JS or React (for frontend)
 
 
 pip install -r requirements.txt
