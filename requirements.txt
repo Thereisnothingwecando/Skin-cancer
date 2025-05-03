@@ -1,0 +1,11 @@
+tensorflow
+numpy
+opencv-python
+matplotlib
+scikit-learn
+Pillow
+requests
+python-dotenv
+transformers
+torch
+flask
